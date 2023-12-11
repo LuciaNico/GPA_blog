@@ -1,0 +1,24 @@
+---
+title: "My second blog"
+description: |
+  Welcome to my second blog, GPA Blog. 
+author:
+  - name: Guillermo Perez Algorta 
+    url: https://www.research.lancs.ac.uk/portal/en/people/guillermo-perez-algorta
+    affiliation: Lancaster University
+    affiliation_url: https://www.lancaster.ac.uk
+date: 12-11-2023
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+
+Here I am writing my second post. 
