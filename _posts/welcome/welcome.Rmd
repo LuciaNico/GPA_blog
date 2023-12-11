@@ -1,13 +1,12 @@
 ---
-title: "Welcome to GPA Blog"
+title: "My first blog"
 description: |
-  Welcome to our new blog, GPA Blog. We hope you enjoy 
-  reading what we have to say!
+  Welcome to my new blog, GPA Blog. 
 author:
-  - name: Nora Jones 
-    url: https://example.com/norajones
-    affiliation: Spacely Sprockets
-    affiliation_url: https://example.com/spacelysprokets
+  - name: Guillermo Perez Algorta 
+    url: https://www.research.lancs.ac.uk/portal/en/people/guillermo-perez-algorta
+    affiliation: Lancaster University
+    affiliation_url: https://www.lancaster.ac.uk
 date: 12-11-2023
 output:
   distill::distill_article:
@@ -22,5 +21,5 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-
+I can write my first post. Write a plain text file. 
 
